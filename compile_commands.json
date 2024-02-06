@@ -1,0 +1,242 @@
+[
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/CDC.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/HardwareSerial.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/HardwareSerial0.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/HardwareSerial1.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/HardwareSerial2.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/HardwareSerial3.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/IPAddress.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/PluggableUSB.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/Print.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/Stream.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/Tone.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/USBCore.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/WInterrupts.c.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/WMath.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/WString.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/abi.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/hooks.c.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/main.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/new.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring.c.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring_analog.c.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring_digital.c.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -mmcu=atmega328p -x assembler-with-cpp -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs -c -o .pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.S.o /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.S.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.c.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "output": ".pio/build/nanoatmega328/FrameworkArduino/wiring_shift.c.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib04f/SoftwareSerial/SoftwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src/SoftwareSerial.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src/SoftwareSerial.cpp",
+        "output": ".pio/build/nanoatmega328/lib04f/SoftwareSerial/SoftwareSerial.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib6e7/SPI/SPI.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp",
+        "output": ".pio/build/nanoatmega328/lib6e7/SPI/SPI.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/FastLED.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/FastLED.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/FastLED.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/FastLED.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/bitswap.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/bitswap.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/bitswap.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/bitswap.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/colorpalettes.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/colorpalettes.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/colorpalettes.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/colorpalettes.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/colorutils.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/colorutils.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/colorutils.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/colorutils.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/five_bit_hd_gamma.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/five_bit_hd_gamma.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/five_bit_hd_gamma.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/five_bit_hd_gamma.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/hsv2rgb.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/hsv2rgb.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/hsv2rgb.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/hsv2rgb.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/lib8tion.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/lib8tion.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/lib8tion.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/lib8tion.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/noise.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/noise.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/noise.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/noise.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/platforms.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/platforms.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/platforms.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/platforms.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/platforms/esp/32/clockless_rmt_esp32.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/platforms/esp/32/clockless_rmt_esp32.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/platforms/esp/32/clockless_rmt_esp32.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/platforms/esp/32/clockless_rmt_esp32.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/power_mgt.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/power_mgt.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/power_mgt.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/power_mgt.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe33/FastLED/wiring.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/FastLED/src/wiring.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "lib/FastLED/src/wiring.cpp",
+        "output": ".pio/build/nanoatmega328/libe33/FastLED/wiring.cpp.o"
+    },
+    {
+        "command": "/home/sergio/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/src/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -Ilib/FastLED/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/sergio/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src -I/home/sergio/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/sergio/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs src/main.cpp",
+        "directory": "/home/sergio/Documents/PlatformIO/Projects/smoke_machine",
+        "file": "src/main.cpp",
+        "output": ".pio/build/nanoatmega328/src/main.cpp.o"
+    }
+]
